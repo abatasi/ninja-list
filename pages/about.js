@@ -9,8 +9,8 @@ const About = () => {
     </Head>
         <div>
             <h1>About</h1>
-            <p>They're bringing drugs, they're bringing crime, they're rapists, and some, I'll go ahead and assume, are good people</p>
-            <p>They're bringing drugs, they're bringing crime, they're rapists, and some, I'll go ahead and assume, are good people</p>
+            <p>Whoah buddy boy</p>
+            <p>Whoah buddy boy</p>
         </div>
         </>
     );
